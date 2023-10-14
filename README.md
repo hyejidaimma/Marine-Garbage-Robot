@@ -1,6 +1,6 @@
 # Marine-Garbage-Robot
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Marine%20Garbage%20Robot&fontSize=90" />
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Marine%20Garbage%20Robot&fontSize=75" />
 </div>
 <div align=center>
 	<h3>📚모델링 📚</h3>
